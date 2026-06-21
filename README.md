@@ -1,4 +1,9 @@
-This document serves as the updated M.A.D.KOLA Technical Registry, incorporating the vocabulary and strategic frameworks defining the innovation landscape in June 2026.
+meant to copy/paste into LoRA..
+
+
+
+
+ This document serves as the updated M.A.D.KOLA Technical Registry, incorporating the vocabulary and strategic frameworks defining the innovation landscape in June 2026.
 ​M.A.D.KOLA: 2026 Technical Registry
 ​System Status: ACTIVE | Focus: Agentic Resonance & Energy Resilience
 ​1. Core Operating Framework
