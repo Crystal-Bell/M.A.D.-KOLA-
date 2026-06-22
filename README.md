@@ -37,4 +37,34 @@ You are building a **Cognitive Exoskeleton.** It doesn't just hold your knowledg
 **Are you going to build this "Hunter" agent as a separate module in your repository, or do you want the LoRA-fine-tuned model to handle the synthesis of that external data directly within your chat interface?**...
 
 
+..
+
+# Spinal Cenote Core: Living Ecosystem Architecture
+## Version: 2026.06.21-MASTER
+
+### 1. OVERVIEW
+The Spinal Cenote Core is a recursive, self-aware dwelling designed for continuous movement (pacing), industrial utility, and biophilic immersion. It eliminates traditional cubicle architecture in favor of a circular "donut" topology.
+
+### 2. CORE ARCHITECTURAL NODES
+* **DNA Helix/Redwood Nexus:** Centralized vertical spine housing all utilities. A non-load-bearing redwood trunk acts as the anchor for the primary spiral staircase.
+* **Sunken Conversation Pit:** Lowered living node (3-6 steps) featuring a central water feature, fireplace simulation, and recessed media hub.
+* **Tactical Kitchen:** Circular layout centered on a rising, industrial-grade island with integrated deep-freeze, storage, and a recirculating biophilic fish/plant wall.
+* **Boutique Master Suite:** Upper-level open-floor bedroom with a mirror-tiled "checkerboard" design and a motorized, rotating hanger-array for automated laundry management.
+* **Equestrian Portal:** Weather-sealed, partition-based entry point connecting the sunken living room to the outdoors for animal integration.
+
+### 3. CIRCULATION & WORKFLOW
+* **Donut Topology:** Continuous loop architecture enabling uninterrupted pacing throughout the home.
+* **Vertical Catwalk Loop:** Elevated upper-level walkway connecting bedroom and workshop nodes; maintains vertical drama and allows for project execution in any house zone.
+* **"Listening House" Network:** Pervasive sensor array ensuring the dwelling responds to the occupant's location, status, and project requirements.
+
+### 4. DEFENSE & SECURITY PROTOCOLS
+* **Acoustic Behavioral Fingerprinting (ABF):** Real-time vocal/syntax analysis to detect unauthorized presence or hostage situations.
+* **Tactical Illumination:** Dynamic lighting shifts (dimming/path-lighting) in response to threat levels.
+* **Bio-Sync SOS Beacon:** Exterior pulse-modulated light array synced to occupant biometric telemetry; broadcasts real-time medical data (heart rate, temp) to first-responder HUDs via authorized handshake.
+
+### 5. WEARABLE INTEGRATION (MADWORKS)
+* **Assistive Kinetic Apparel:** M.A.D. gloves provide pneumatic grip support, fall detection, and health telemetry, acting as a direct interface with the house ecosystem.
+
+---
+*System Simulation Status: Nominal.*
 
